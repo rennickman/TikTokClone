@@ -1,0 +1,13 @@
+/* Sidebar Container */
+.videoSidebar {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    color: white;
+}
+
+/* Sidebar Icons */
+.videoSidebar__button {
+    padding: 20px;
+    text-align: center;
+}
